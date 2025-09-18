@@ -1,1 +1,1 @@
-console.log("krutika")node -
+console.log("krutika")  
